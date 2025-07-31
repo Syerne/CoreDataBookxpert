@@ -10,6 +10,6 @@
 
 ## 💻 How to Run
 
-1. Clone the repo: git clone https://github.com/yourusername/bookxpert-demo.git
+1. Clone the repo: git clone https://github.com/Syerne/CoreDataBookxpert.git
 2. Open `.xcodeproj` in Xcode.
 3. Run the project on Simulator or a device.
